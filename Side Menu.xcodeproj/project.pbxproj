@@ -14,6 +14,7 @@
 		210F1DE52944F5230020E06E /* Side_Menu.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 210F1DE32944F5230020E06E /* Side_Menu.xcdatamodeld */; };
 		210F1DE72944F5250020E06E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 210F1DE62944F5250020E06E /* Assets.xcassets */; };
 		210F1DEA2944F5250020E06E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 210F1DE82944F5250020E06E /* LaunchScreen.storyboard */; };
+		210F1DF22944F9460020E06E /* SideMenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 210F1DF12944F9460020E06E /* SideMenuTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		210F1DE62944F5250020E06E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		210F1DE92944F5250020E06E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		210F1DEB2944F5250020E06E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		210F1DF12944F9460020E06E /* SideMenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				210F1DDA2944F5230020E06E /* AppDelegate.swift */,
 				210F1DDC2944F5230020E06E /* SceneDelegate.swift */,
 				210F1DDE2944F5230020E06E /* ViewController.swift */,
+				210F1DF12944F9460020E06E /* SideMenuTableViewCell.swift */,
 				210F1DE02944F5230020E06E /* Main.storyboard */,
 				210F1DE62944F5250020E06E /* Assets.xcassets */,
 				210F1DE82944F5250020E06E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				210F1DF22944F9460020E06E /* SideMenuTableViewCell.swift in Sources */,
 				210F1DDF2944F5230020E06E /* ViewController.swift in Sources */,
 				210F1DDB2944F5230020E06E /* AppDelegate.swift in Sources */,
 				210F1DDD2944F5230020E06E /* SceneDelegate.swift in Sources */,
